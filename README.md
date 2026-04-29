@@ -77,3 +77,5 @@ Provided actionable insights for business optimization
 🚀 Conclusion
 
 This dashboard helps in making data-driven decisions by providing a clear view of sales trends, customer behavior, and operational efficiency. It can be used to improve product strategy, inventory planning, and overall business performance.
+Example: [Dashboard Preview](https://github.com/krAbhishek09/Blink_dash/blob/main/Screenshot%202026-04-29%20133722.png)
+
